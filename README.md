@@ -1,2 +1,2 @@
-# aws_lighstail_terra
+# aws_lightstail_terra
 Terraform to create AWS lightsail instances
